@@ -1,0 +1,18 @@
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+  BackupUtilSoftcom -> c:\Projetos\BackupUtilSoftcom\bin\Debug\net472\BackupUtilSoftcom.dll
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3823: recursos diferentes de cadeias de caracteres exigem que a propriedade GenerateResourceUsePreserializedResources seja definida como true. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3822: recursos diferentes de cadeias de caracteres exigem o assembly System.Resources.Extensions no tempo de execução, mas ele não foi encontrado nas referências deste projeto. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3823: recursos diferentes de cadeias de caracteres exigem que a propriedade GenerateResourceUsePreserializedResources seja definida como true. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3822: recursos diferentes de cadeias de caracteres exigem o assembly System.Resources.Extensions no tempo de execução, mas ele não foi encontrado nas referências deste projeto. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+
+FALHA da compilação.
+
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3823: recursos diferentes de cadeias de caracteres exigem que a propriedade GenerateResourceUsePreserializedResources seja definida como true. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3822: recursos diferentes de cadeias de caracteres exigem o assembly System.Resources.Extensions no tempo de execução, mas ele não foi encontrado nas referências deste projeto. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3823: recursos diferentes de cadeias de caracteres exigem que a propriedade GenerateResourceUsePreserializedResources seja definida como true. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+C:\Program Files\dotnet\sdk\9.0.306\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3822: recursos diferentes de cadeias de caracteres exigem o assembly System.Resources.Extensions no tempo de execução, mas ele não foi encontrado nas referências deste projeto. [c:\Projetos\FrontDescktopBackUtilsoftcom.csproj]
+    0 Aviso(s)
+    4 Erro(s)
+
+Tempo Decorrido 00:00:00.80
